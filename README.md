@@ -3,7 +3,7 @@
 
 <b>modul-pilihan is a Script where you can find all The modul that Are available for termux as well as All the modul that are available in Termux Repository. I have also included some modul that are on GitHub or written in other languages other than bash like imron1997 and 2048. This Script is not complete yet, I am still working on it so I will add more modul in the Future.</b>
 
-Author👨‍💻: https://github.com/imron1997 <br>
+Author👨‍💻: https://github.com/Imron-Bere/Imron-Bere.git
 
 
 <br>
@@ -23,7 +23,7 @@ visit : https://www.imron1997.tech/2020/02/modul-pilihan-Script.html
 ```pkg install git -y```
 <br>
 <br>
-```git clone https://github.com/Imron Bere/modul-pilihan/```
+```git clone https://github.com/Imron-Bere/Imron-Bere.git
 <br><br>/
 ```cd modul-pilihan```
 <br><br>
